@@ -14,4 +14,4 @@ NumPy, Matplotlib\
 [Entre outras]
 
 ____________________________________________________________________
-\Este repositório é destinado exclusivamente para fins educacionais.
+Este repositório é destinado exclusivamente para fins educacionais.
